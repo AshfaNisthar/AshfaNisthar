@@ -16,7 +16,7 @@ const Ashfa = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C, PHP, MySQL,Dart],
   tools: [React,Node, Fluter, Azure],
   architecture: ["event-driven", "design system pattern"],
-  techCommunities: {
+  moreMe: {
                         Volanteer: "Hemmathagama Undergraduate Society",
                         Writer: "Prolific Poet",
                         Reader: "Bookworm"
