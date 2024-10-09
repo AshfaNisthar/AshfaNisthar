@@ -9,7 +9,7 @@
 const Ashfa = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C, PHP, MySQL,Dart],
-  tools: [React,Node, Fluter, Azure],
+  tools: [React, Node, flutter, Azure],
   architecture: ["event-driven", "design system pattern"],
   moreMe: {
                         Volanteer: "Hemmathagama Undergraduate Society",
